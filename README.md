@@ -36,7 +36,7 @@
 
 # 📖 [Hello World] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+>
 
 **[Hello World]** is a project to understand the basics of Github flow and lint rules
 
@@ -47,7 +47,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - **[index.html file]**
 - **[style.css file]**
@@ -55,10 +54,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://google.com)
 
@@ -68,8 +63,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
+>
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -90,7 +84,7 @@ Install this project with:
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following command:npm run start
 
 
 ### Run tests
@@ -111,7 +105,7 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+> 
 
 👤 **Author1**
 
@@ -128,7 +122,7 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+> 
 
 - [ ] **[header tag]**
 - [ ] **[text.md]**
@@ -150,7 +144,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+>
 
 If you like this project give it a star
 
@@ -160,7 +154,7 @@ If you like this project give it a star
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+> 
 
 I would like to thank my collobarating partners for asssisting with the task
 
@@ -170,7 +164,7 @@ I would like to thank my collobarating partners for asssisting with the task
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+>
 
 - **[Question_1]**
 
