@@ -127,7 +127,6 @@ You can deploy this project using: GitHub Pages,
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -141,7 +140,7 @@ You can deploy this project using: GitHub Pages,
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+
 
 - [ ] **[Desktop Version]**
 - [ ] **[Contact Section]**
