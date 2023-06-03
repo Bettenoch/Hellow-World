@@ -71,8 +71,8 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-git clone <repo https://github.com/Bettenoch/Hellow-World>
-cd <repo Hello_World>
+git clone  https://github.com/Bettenoch/Hellow-World
+cd Hello_World
 
 ### Setup
 
