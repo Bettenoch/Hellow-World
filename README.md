@@ -1,15 +1,14 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <
   <img src="assets\images\cvimage2.JPG" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>My Portfolio</b></h3>
+  <h3><b>Hello World Project</b></h3>
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
+
 
 # 📗 Table of Contents
 
@@ -35,37 +34,28 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [My_Portfolio] <a name="about-project"></a>
+# 📖 [Hello World] <a name="about-project"></a>
 
+>
 
-**[My_Portfolio]** is a personal portfolio website that descibes my work and related projects, Previous jobs experiences
-and contact information. As most industry's are looking for digital precense, a personal portfolio website is a cutting edge for job security.
+**[Hello World]** is a project to understand the basics of Github flow and lint rules
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="HTML/CSS"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack <a name="HTML/CSS"></a>
 
-> 
-
-
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
-- **[Mobile_first design]**
-- **[Cross-plartfom responsiveness]**
-- **[User Friendliness]**
+- **[index.html file]**
+- **[style.css file]**
+- **[.gitignore file]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
+- [Live Demo Link](https://google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -81,8 +71,8 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-git clone <repo https://github.com/Bettenoch/My_Portfolio>
-cd <repo My-Portfolio>
+git clone <repo https://github.com/Bettenoch/Hellow-World>
+cd <repo Hello_World>
 
 ### Setup
 
@@ -163,7 +153,7 @@ You can deploy this project using: GitHub Pages,
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Bettenoch/My_Portfolio/issues).
+Feel free to check the [issues page](https://github.com/Bettenoch/Hellow-World/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
