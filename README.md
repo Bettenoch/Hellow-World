@@ -112,8 +112,7 @@ npx eslint .
 ### Deployment
 
 You can deploy this project using:
-
-You can deploy this project using: GitHub Pages,
+ GitHub Pages
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
